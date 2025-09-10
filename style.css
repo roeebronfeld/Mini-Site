@@ -1,0 +1,37 @@
+/* עיצוב כללי לדף */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* כותרת ראשית */
+h1 {
+  color: #333;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* פסקאות */
+p {
+  color: #555;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+/* כפתור */
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
